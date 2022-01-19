@@ -22,7 +22,13 @@
     content: "• ";
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1250px) {
+    .cards {
+        grid-template-columns: repeat(3, 350px);
+    }
+}
+
+@media (max-width: 1130px) {
     .cards {
         grid-template-columns: repeat(2, 400px);
     }

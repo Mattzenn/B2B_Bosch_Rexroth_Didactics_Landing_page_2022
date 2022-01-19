@@ -8,6 +8,7 @@
     color: #002b49;
     background-color: transparent;
     line-height: 1.5;
+    text-align: center;
 }
 
 @media (max-width: 450px) {
