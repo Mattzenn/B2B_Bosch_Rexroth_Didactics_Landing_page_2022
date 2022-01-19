@@ -1,0 +1,35 @@
+.blockwithinfo__link {
+    margin: 0;
+    margin-top: 65px;
+    color: #00ccff;
+    font-weight: 400;
+    /* font-size: 16px;
+    line-height: 20px; */
+    text-decoration: none;
+    transition: .2s ease-in-out;
+}
+
+.blockwithinfo__link:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 1080px) {
+    .blockwithinfo__link {
+        /* font-size: 16px;
+        line-height: 26px; */
+        padding: 0 16px 0 16px;
+    }
+}
+
+@media (max-width: 700px) {
+    .blockwithinfo__link {
+        padding: 0 16px 0 16px;
+    }
+}
+
+@media (max-width: 400px) {
+    .blockwithinfo__link {
+        max-width: 300px;
+        padding: 0 16px 0 16px;
+    }
+}

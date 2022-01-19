@@ -1,0 +1,17 @@
+.cards__image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+    max-width: 340px;
+    max-height: 191px;
+    /* max-height: 226px; */
+    /* если нужно круглые картинки */
+    /* border-radius: 50%; */
+    /* margin: 0 40px 43px 40px; */
+}
+
+@media (max-width: 450px) {
+    .cards__image {
+        margin-top: 15px;
+    }
+}

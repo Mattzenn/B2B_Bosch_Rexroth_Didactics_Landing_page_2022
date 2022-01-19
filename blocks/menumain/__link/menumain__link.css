@@ -1,0 +1,14 @@
+.menumain__link {
+    box-sizing: inherit;
+    font-size: 25px;
+    font-weight: 700;
+    color: #002b49;
+    list-style: none;
+    line-height: 1.5;
+    text-decoration: none;
+    transition: color .3s ease-in-out;
+}
+
+.menumain__link:hover {
+    color: #1fd9fd;
+}

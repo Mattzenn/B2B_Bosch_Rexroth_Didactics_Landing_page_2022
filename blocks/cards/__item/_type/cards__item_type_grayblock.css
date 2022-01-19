@@ -1,0 +1,13 @@
+.cards__item_type_grayblock {
+    background-color: #e5eef2;
+    max-width: 324px;
+    /* margin: 25px 30px; */
+}
+
+@media (max-width: 800px) {
+    .cards__item_type_grayblock {
+        margin: 0 auto;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+}

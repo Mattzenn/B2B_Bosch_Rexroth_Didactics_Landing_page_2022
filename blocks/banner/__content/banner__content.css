@@ -1,0 +1,20 @@
+.banner__content {
+    margin: 0 auto;
+    max-width: 1200px;
+    position: relative;
+    z-index: 1;
+}
+
+@media (max-width: 1250px) {
+    .banner__content {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
+
+@media (max-width: 470px) {
+    .banner__content {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}

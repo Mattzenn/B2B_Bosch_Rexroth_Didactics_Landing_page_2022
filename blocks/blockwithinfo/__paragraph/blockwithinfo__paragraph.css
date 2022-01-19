@@ -1,0 +1,25 @@
+.blockwithinfo__paragraph {
+    max-width: 770px;
+    margin: 0 auto;
+    color: 333333;
+    font-size: 18px;
+    line-height: 26px;
+    /* min-height: 700px; */
+}
+
+@media (max-width: 900px) {
+    .blockwithinfo__paragraph {
+        margin: 0 15px 0 15px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width: 420px) {
+    .blockwithinfo__paragraph {
+        font-size: 16px;
+        line-height: 26px;
+        text-align: left;
+        margin: 0 15px 0 15px;
+    }
+}

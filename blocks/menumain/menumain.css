@@ -1,0 +1,11 @@
+.menumain {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: inherit;
+}

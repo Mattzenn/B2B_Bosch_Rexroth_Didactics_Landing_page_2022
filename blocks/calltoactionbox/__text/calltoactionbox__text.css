@@ -1,0 +1,10 @@
+.calltoactionbox__text {
+    margin-right: 72px;
+    max-width: 652px;
+}
+
+@media (max-width: 700px) {
+    .calltoactionbox__text {
+        margin-right: 5px;
+    }
+}

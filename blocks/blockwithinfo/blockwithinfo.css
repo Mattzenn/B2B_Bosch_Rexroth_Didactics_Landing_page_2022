@@ -1,0 +1,21 @@
+.blockwithinfo {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+    padding-top: 100px;
+    /* background-color: #F2F2F2; */
+}
+
+.blockwithinfo__dark {
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #002b49;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .blockwithinfo__dark {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}

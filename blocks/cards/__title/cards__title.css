@@ -1,0 +1,20 @@
+.cards__title {
+    max-width: 370px;
+    line-height: 1.15;
+    font-size: 24px;
+    /* text-align: center; */
+    font-weight: bold;
+    margin: 30px 0 15px 0;
+    color: #002b49;
+}
+
+.cards__title_dark {
+    color: #fff;
+}
+
+@media (max-width: 450px) {
+    .cards__title {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}

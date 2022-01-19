@@ -1,0 +1,18 @@
+.cards__item_type_4column {
+    max-width: 270px;
+    margin-bottom: 80px;
+    margin: 0 auto;
+}
+
+@media (max-width: 1270px) {
+    .cards__item_type_4column {
+        max-width: 240px;
+    }
+}
+
+@media (max-width: 640px) {
+    .cards__item_type_4column {
+        max-width: 340px;
+        padding: 0;
+    }
+}

@@ -1,0 +1,24 @@
+.blockwithinfo__paragraph_type_left {
+    margin: 0;
+}
+
+@media (max-width: 1220px) {
+    .blockwithinfo__paragraph_type_left {
+        margin: 0 0 0 40px;
+    }
+}
+
+@media (max-width: 830px) {
+    .blockwithinfo__paragraph_type_left {
+        margin: 0 20px 0 20px;
+    }
+}
+
+@media (max-width: 450px) {
+    .blockwithinfo__paragraph_type_left {
+        font-size: 16px;
+        line-height: 26px;
+        text-align: left;
+        margin: 0 20px 0 20px;
+    }
+}

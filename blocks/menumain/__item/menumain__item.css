@@ -1,0 +1,17 @@
+.menumain__item {
+    max-width: 300px;
+    list-style: none;
+    margin-right: 40px;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #002b49;
+    background-color: transparent;
+    line-height: 1.5;
+}
+
+@media (max-width: 450px) {
+    .menumain__item {
+        margin: 10px;
+    }
+}

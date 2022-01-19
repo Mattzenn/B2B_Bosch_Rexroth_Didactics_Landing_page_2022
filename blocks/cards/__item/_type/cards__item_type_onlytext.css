@@ -1,0 +1,23 @@
+.cards__item_type_onlytext {
+    max-width: 585px;
+    margin-top: 0 auto;
+}
+
+@media (max-width: 1270px) {
+    .cards__item_type_onlytext {
+        max-width: 1270px;
+    }
+}
+
+
+@media (max-width: 1210px) {
+    .cards__item_type_onlytext {
+        margin: 0 40px;
+    }
+}
+
+@media (max-width: 800px) {
+    .cards__item_type_onlytext {
+        max-width: 800px;
+    }
+}

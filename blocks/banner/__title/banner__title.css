@@ -1,0 +1,27 @@
+.banner__title {
+    color: #fff;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 40px;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 1.1;
+    box-sizing: inherit;
+    object-fit: cover;
+
+}
+
+@media (max-width: 800px) {
+    .banner__title {
+        max-width: 425px;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 420px) {
+    .banner__title {
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+}

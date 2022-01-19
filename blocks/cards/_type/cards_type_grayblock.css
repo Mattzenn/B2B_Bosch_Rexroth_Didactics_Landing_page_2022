@@ -1,0 +1,21 @@
+.cards_type_grayblock {
+    grid-template-columns: repeat(3, 380px);
+}
+
+@media (max-width: 1280px) {
+    .cards_type_grayblock {
+        grid-template-columns: repeat(2, 384px);
+    }
+}
+
+@media (max-width: 800px) {
+    .cards_type_grayblock {
+        grid-template-columns: repeat(1, 400px);
+    }
+}
+
+@media (max-width: 450px) {
+    .cards_type_grayblock {
+        grid-template-columns: repeat(1, 300px);
+    }
+}

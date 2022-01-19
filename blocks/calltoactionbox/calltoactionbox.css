@@ -1,0 +1,13 @@
+.calltoactionbox {
+    padding: 60px 100px;
+    background-color: #E8EEF1;
+    display: flex;
+}
+
+@media (max-width: 700px) {
+    .calltoactionbox {
+        flex-direction: column;
+        padding: 40px 30px;
+        max-width: 100%;
+    }
+}

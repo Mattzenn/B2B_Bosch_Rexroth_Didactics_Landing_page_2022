@@ -1,0 +1,37 @@
+.section-title {
+    text-align: center;
+    display: block;
+    font-size: 60px;
+    line-height: 1.15;
+    font-weight: bold;
+    margin: 0 auto 50px;
+    color: #002b49;
+}
+
+.section-title_dark {
+    margin: 30px auto;
+    color: #fff;
+}
+
+@media (max-width: 1200px) {
+    .section-title {
+        font-size: 42px;
+        margin: 0 40px 40px 40px;
+    }
+}
+
+@media (max-width: 800px) {
+    .section-title {
+        font-size: 42px;
+        line-height: 35px;
+        margin: 0 20px 40px 20px;
+    }
+}
+
+@media (max-width: 450px) {
+    .section-title {
+        font-size: 32px;
+        line-height: 35px;
+        margin: 0 20px 30px 20px;
+    }
+}

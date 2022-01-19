@@ -1,0 +1,18 @@
+.banner__textcontent {
+    max-width: 825px;
+    padding: 80px auto 120px auto;
+    z-index: 2;
+}
+
+@media (max-width: 800px) {
+    .banner__textcontent {
+        max-width: 425px;
+        padding: 80px auto 120px auto;
+    }
+}
+
+@media (max-width: 800px) {
+    .banner__textcontent {
+        margin-left: 10px;
+    }
+}

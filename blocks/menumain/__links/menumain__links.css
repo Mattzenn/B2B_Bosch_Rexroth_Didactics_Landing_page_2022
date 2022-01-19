@@ -1,0 +1,11 @@
+.menumain__links {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+
+@media (max-width: 915px) {
+    .menumain__links {
+        flex-direction: column;
+    }
+}
