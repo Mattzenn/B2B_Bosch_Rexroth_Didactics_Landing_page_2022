@@ -27,8 +27,6 @@
     .place__paragraph {
         max-width: 350px;
         padding: 0;
-        /* margin-left: 15px;
-        margin-right: 15px; */
     }
 }
 
@@ -36,7 +34,5 @@
     .place__paragraph {
         max-width: 350px;
         padding: 0;
-        /* margin-left: 15px;
-        margin-right: 15px; */
     }
 }

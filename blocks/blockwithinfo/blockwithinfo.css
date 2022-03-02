@@ -7,6 +7,7 @@
 }
 
 .blockwithinfo__dark {
+    max-width: 2500px;
     padding-left: 200px;
     padding-right: 200px;
     background-color: #002b49;

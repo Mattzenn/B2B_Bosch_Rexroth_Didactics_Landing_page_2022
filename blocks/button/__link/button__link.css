@@ -1,11 +1,7 @@
 .button__link {
     position: relative;
     text-decoration: none;
-    /* display: block; */
     background-color: #0cf;
-    /* max-height: 48px;
-    min-height: 48px; */
-    /* background-size: 100% 100%; */
     color: inherit;
     z-index: 1;
     display: flex;

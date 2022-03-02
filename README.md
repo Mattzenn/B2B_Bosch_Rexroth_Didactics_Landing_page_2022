@@ -1,4 +1,4 @@
-# Проектная работа: "B2B_Bosch_Rexroth_Didactics_Landing_page_2022".
+# Проект: "B2B_Bosch_Rexroth_Didactics_Landing_page_2022".
 
 ## Описание:
 

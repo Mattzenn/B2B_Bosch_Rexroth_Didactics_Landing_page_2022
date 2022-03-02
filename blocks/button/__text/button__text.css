@@ -1,11 +1,5 @@
 .button__text {
-    /* margin-right: 16px;
-    margin-left: 16px; */
-    /* max-width: 560px; */
     font-size: 1rem;
-    /* display: block; */
-    /* margin-top: 20px;
-    margin-bottom: 20px; */
     line-height: 22px;
     font-weight: 900;
     margin: 0 auto;
@@ -16,8 +10,6 @@
     .button__text {
         font-size: 32px;
         line-height: 35px;
-        /* margin: 0 auto 16px auto; */
-        /* max-width: 250px; */
     }
 }
 
@@ -25,7 +17,5 @@
     .button__text {
         font-size: 16px;
         line-height: 26px;
-        /* margin: 0 auto 16px auto; */
-        /* max-width: 250px; */
     }
 }
