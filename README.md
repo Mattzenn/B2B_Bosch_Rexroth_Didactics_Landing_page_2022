@@ -1,6 +1,6 @@
 # Проект: "B2B_Bosch_Rexroth_Didactics_Landing_page_2022".
 
-### Ссылка на лединг: https://b2b.boschrexroth.ru/academy.php
+### Ссылка на лединг: https://mattzenn.github.io/B2B_Bosch_Rexroth_Didactics_Landing_page_2022/src/
 
 ## Описание:
 
